@@ -275,5 +275,33 @@
       "TITLE": "Pour plus d'informations, n'hésitez pas à nous contacter !",
       "BOOK_EXP": "Réserver l'expérience"
     }
+  },
+  "BOOKING": {
+    "SELECT_DATE": "Sélectionnez une date",
+    "FULL": "Complet",
+    "SLOTS": "places",
+    "PARTICIPANTS": "Participants (Adultes)",
+    "MAX_6": "Maximum 6 personnes",
+    "YOUR_DETAILS": "Vos coordonnées",
+    "FIRST_NAME": "Prénom",
+    "FIRST_NAME_PLACEHOLDER": "Entrez votre prénom",
+    "LAST_NAME": "Nom",
+    "LAST_NAME_PLACEHOLDER": "Entrez votre nom",
+    "EMAIL": "E-mail",
+    "EMAIL_PLACEHOLDER": "votre@email.com",
+    "SUMMARY": "Résumé de la réservation",
+    "DATE": "Date",
+    "TOTAL": "Total",
+    "STRIPE_INFO": "Vous allez être redirigé vers Stripe pour effectuer le paiement en toute sécurité.",
+    "STEP1_TITLE": "Choisissez quand venir",
+    "STEP2_TITLE": "Entrez vos coordonnées",
+    "STEP3_TITLE": "Vérifier et Payer",
+    "CONTINUE": "Continuer",
+    "BACK": "Retour",
+    "PROCEED_TO_PAYMENT": "Procéder au paiement",
+    "PAY_NOW": "Payer maintenant",
+    "REDIRECTING": "Redirection...",
+    "SUCCESS_TITLE": "Réservation reçue !",
+    "SUCCESS_MSG": "Merci d'avoir choisi le Centro Ippico Su Barone. Nous vous avons envoyé un e-mail de confirmation."
   }
 }

@@ -275,5 +275,33 @@
       "TITLE": "Per maggiori informazioni non esitare a contattarci!",
       "BOOK_EXP": "Prenota Esperienza"
     }
+  },
+  "BOOKING": {
+    "SELECT_DATE": "Seleziona una data",
+    "FULL": "Pieno",
+    "SLOTS": "posti",
+    "PARTICIPANTS": "Partecipanti (Adulti)",
+    "MAX_6": "Massimo 6 persone",
+    "YOUR_DETAILS": "I tuoi dati",
+    "FIRST_NAME": "Nome",
+    "FIRST_NAME_PLACEHOLDER": "Inserisci il tuo nome",
+    "LAST_NAME": "Cognome",
+    "LAST_NAME_PLACEHOLDER": "Inserisci il tuo cognome",
+    "EMAIL": "Email",
+    "EMAIL_PLACEHOLDER": "la-tua@email.com",
+    "SUMMARY": "Riepilogo prenotazione",
+    "DATE": "Data",
+    "TOTAL": "Totale",
+    "STRIPE_INFO": "Sarai reindirizzato a Stripe per completare il pagamento in sicurezza.",
+    "STEP1_TITLE": "Scegli quando venire",
+    "STEP2_TITLE": "Inserisci i tuoi contatti",
+    "STEP3_TITLE": "Verifica e Paga",
+    "CONTINUE": "Continua",
+    "BACK": "Indietro",
+    "PROCEED_TO_PAYMENT": "Procedi al pagamento",
+    "PAY_NOW": "Paga ora",
+    "REDIRECTING": "Reindirizzamento...",
+    "SUCCESS_TITLE": "Prenotazione Ricevuta!",
+    "SUCCESS_MSG": "Grazie per aver scelto il Centro Ippico Su Barone. Ti abbiamo inviato una mail di conferma."
   }
 }

@@ -260,5 +260,33 @@
       "TITLE": "¡Para más información no dude en contactarnos!",
       "BOOK_EXP": "Reservar experiencia"
     }
+  },
+  "BOOKING": {
+    "SELECT_DATE": "Selecciona una fecha",
+    "FULL": "Lleno",
+    "SLOTS": "plazas",
+    "PARTICIPANTS": "Participantes (Adultos)",
+    "MAX_6": "Máximo 6 personas",
+    "YOUR_DETAILS": "Tus datos",
+    "FIRST_NAME": "Nombre",
+    "FIRST_NAME_PLACEHOLDER": "Introduce tu nombre",
+    "LAST_NAME": "Apellido",
+    "LAST_NAME_PLACEHOLDER": "Introduce tu apellido",
+    "EMAIL": "Correo electrónico",
+    "EMAIL_PLACEHOLDER": "tu@email.com",
+    "SUMMARY": "Resumen de la reserva",
+    "DATE": "Fecha",
+    "TOTAL": "Total",
+    "STRIPE_INFO": "Serás redirigido a Stripe para completar el pago de forma segura.",
+    "STEP1_TITLE": "Elige cuándo venir",
+    "STEP2_TITLE": "Introduce tus datos de contacto",
+    "STEP3_TITLE": "Revisar y Pagar",
+    "CONTINUE": "Continuar",
+    "BACK": "Atrás",
+    "PROCEED_TO_PAYMENT": "Proceder al pago",
+    "PAY_NOW": "Pagar ahora",
+    "REDIRECTING": "Redirigiendo...",
+    "SUCCESS_TITLE": "¡Reserva recibida!",
+    "SUCCESS_MSG": "Gracias por elegir el Centro Ippico Su Barone. Te hemos enviado un correo de confirmación."
   }
 }

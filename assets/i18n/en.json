@@ -275,5 +275,33 @@
       "TITLE": "For more information do not hesitate to contact us!",
       "BOOK_EXP": "Book Experience"
     }
+  },
+  "BOOKING": {
+    "SELECT_DATE": "Select a date",
+    "FULL": "Full",
+    "SLOTS": "slots",
+    "PARTICIPANTS": "Participants (Adults)",
+    "MAX_6": "Maximum 6 people",
+    "YOUR_DETAILS": "Your details",
+    "FIRST_NAME": "First Name",
+    "FIRST_NAME_PLACEHOLDER": "Enter your first name",
+    "LAST_NAME": "Last Name",
+    "LAST_NAME_PLACEHOLDER": "Enter your last name",
+    "EMAIL": "Email",
+    "EMAIL_PLACEHOLDER": "your@email.com",
+    "SUMMARY": "Booking summary",
+    "DATE": "Date",
+    "TOTAL": "Total",
+    "STRIPE_INFO": "You will be redirected to Stripe to complete the payment securely.",
+    "STEP1_TITLE": "Choose when to come",
+    "STEP2_TITLE": "Enter your contact info",
+    "STEP3_TITLE": "Review and Pay",
+    "CONTINUE": "Continue",
+    "BACK": "Back",
+    "PROCEED_TO_PAYMENT": "Proceed to payment",
+    "PAY_NOW": "Pay now",
+    "REDIRECTING": "Redirecting...",
+    "SUCCESS_TITLE": "Booking Received!",
+    "SUCCESS_MSG": "Thank you for choosing Centro Ippico Su Barone. We have sent you a confirmation email."
   }
 }
