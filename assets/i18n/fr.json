@@ -286,6 +286,7 @@
   "BOOKING": {
     "SELECT_DATE": "Sélectionnez une date",
     "FULL": "Complet",
+    "AVAILABLE": "Disponible",
     "SLOTS": "places",
     "PARTICIPANTS": "Participants",
     "ADULTS": "Adultes",
@@ -312,6 +313,9 @@
     "PAY_NOW": "Payer maintenant",
     "REDIRECTING": "Redirection...",
     "SUCCESS_TITLE": "Réservation reçue !",
-    "SUCCESS_MSG": "Merci d'avoir choisi le Centro Ippico Su Barone. Nous vous avons envoyé un e-mail de confirmation."
+    "SUCCESS_MSG": "Merci d'avoir choisi le Centro Ippico Su Barone. Nous vous avons envoyé un e-mail de confirmation.",
+    "UNAVAILABLE_LOCKED": "Un autre tour est déjà programmé pour cette heure",
+    "UNAVAILABLE_FULL": "Pas assez de place pour votre groupe",
+    "UNAVAILABLE_SOLD_OUT": "Complet"
   }
 }

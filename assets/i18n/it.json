@@ -286,6 +286,7 @@
   "BOOKING": {
     "SELECT_DATE": "Seleziona una data",
     "FULL": "Pieno",
+    "AVAILABLE": "Disponibile",
     "SLOTS": "posti",
     "PARTICIPANTS": "Partecipanti",
     "ADULTS": "Adulti",
@@ -312,6 +313,9 @@
     "PAY_NOW": "Paga ora",
     "REDIRECTING": "Reindirizzamento...",
     "SUCCESS_TITLE": "Prenotazione Ricevuta!",
-    "SUCCESS_MSG": "Grazie per aver scelto il Centro Ippico Su Barone. Ti abbiamo inviato una mail di conferma."
+    "SUCCESS_MSG": "Grazie per aver scelto il Centro Ippico Su Barone. Ti abbiamo inviato una mail di conferma.",
+    "UNAVAILABLE_LOCKED": "Un altro tour è già programmato per questo orario",
+    "UNAVAILABLE_FULL": "Posti insufficienti per il tuo gruppo",
+    "UNAVAILABLE_SOLD_OUT": "Esaurito"
   }
 }
