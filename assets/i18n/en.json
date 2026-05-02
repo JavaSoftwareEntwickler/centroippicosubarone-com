@@ -125,12 +125,19 @@
         "DUR": "Duration: 1h 30m",
         "DESC": "The thrill of nature awakening in the saddle."
       },
-      "MORNING": {
-        "TITLE": "Morning Walk",
-        "PRICE": "€40/€60",
+      "MORNING_1H": {
+        "TITLE": "Morning Walk (1h)",
+        "PRICE": "€40",
         "TIME": "08:00 AM",
-        "DUR": "Duration: 1h or 1h 30m",
+        "DUR": "Duration: 1 Hour",
         "DESC": "Ideal to start the day with energy."
+      },
+      "MORNING_1H30": {
+        "TITLE": "Morning Walk (1.5h)",
+        "PRICE": "€60",
+        "TIME": "08:00 AM",
+        "DUR": "Duration: 1h 30m",
+        "DESC": "Deeper morning exploration."
       },
       "AFTERNOON_1H": {
         "TITLE": "Afternoon Tour (1h)",

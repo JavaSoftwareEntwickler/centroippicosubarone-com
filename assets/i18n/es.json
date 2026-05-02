@@ -125,12 +125,19 @@
         "DUR": "Duración: 1h 30m",
         "DESC": "La emoción del despertar de la naturaleza en la silla."
       },
-      "MORNING": {
-        "TITLE": "Paseo de la Mañana",
-        "PRICE": "40 €/60 €",
+      "MORNING_1H": {
+        "TITLE": "Paseo de la Mañana (1h)",
+        "PRICE": "40 €",
         "TIME": "08:00",
-        "DUR": "Duración: 1h o 1h 30m",
+        "DUR": "Duración: 1 Hora",
         "DESC": "Ideal para empezar el día con energía."
+      },
+      "MORNING_1H30": {
+        "TITLE": "Paseo de la Mañana (1.5h)",
+        "PRICE": "60 €",
+        "TIME": "08:00",
+        "DUR": "Duración: 1h 30m",
+        "DESC": "Exploración matutina más profunda."
       },
       "AFTERNOON_1H": {
         "TITLE": "Tour por la Tarde (1h)",

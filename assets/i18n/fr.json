@@ -125,12 +125,19 @@
         "DUR": "Durée : 1h 30m",
         "DESC": "L'émotion du réveil de la nature en selle."
       },
-      "MORNING": {
-        "TITLE": "Promenade du Matin",
-        "PRICE": "40 €/60 €",
+      "MORNING_1H": {
+        "TITLE": "Promenade du Matin (1h)",
+        "PRICE": "40 €",
         "TIME": "08:00",
-        "DUR": "Durée : 1h ou 1h 30m",
+        "DUR": "Durée : 1 Heure",
         "DESC": "Idéal pour commencer la journée avec énergie."
+      },
+      "MORNING_1H30": {
+        "TITLE": "Promenade du Matin (1.5h)",
+        "PRICE": "60 €",
+        "TIME": "08:00",
+        "DUR": "Durée : 1h 30m",
+        "DESC": "Exploration matinale plus approfondie."
       },
       "AFTERNOON_1H": {
         "TITLE": "Tour de l'Après-midi (1h)",

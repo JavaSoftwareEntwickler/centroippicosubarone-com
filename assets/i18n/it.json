@@ -125,12 +125,19 @@
         "DUR": "Durata: 1h 30m",
         "DESC": "L'emozione del risveglio della natura in sella."
       },
-      "MORNING": {
-        "TITLE": "Passeggiata del Mattino",
-        "PRICE": "€40/€60",
+      "MORNING_1H": {
+        "TITLE": "Passeggiata del Mattino (1h)",
+        "PRICE": "€40",
         "TIME": "Ore 08:00",
-        "DUR": "Durata: 1h o 1h 30m",
+        "DUR": "Durata: 1 Ora",
         "DESC": "Ideale per iniziare la giornata con energia."
+      },
+      "MORNING_1H30": {
+        "TITLE": "Passeggiata del Mattino (1.5h)",
+        "PRICE": "€60",
+        "TIME": "Ore 08:00",
+        "DUR": "Durata: 1h 30m",
+        "DESC": "Esplorazione mattutina più approfondita."
       },
       "AFTERNOON_1H": {
         "TITLE": "Tour Pomeridiano (1h)",

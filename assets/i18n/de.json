@@ -125,12 +125,19 @@
         "DUR": "Dauer: 1h 30m",
         "DESC": "Das Gefühl des Erwachens der Natur im Sattel."
       },
-      "MORNING": {
-        "TITLE": "Morgenspaziergang",
-        "PRICE": "€40/€60",
+      "MORNING_1H": {
+        "TITLE": "Morgenspaziergang (1h)",
+        "PRICE": "€40",
         "TIME": "08:00 Uhr",
-        "DUR": "Dauer: 1h oder 1h 30m",
+        "DUR": "Dauer: 1 Stunde",
         "DESC": "Ideal, um den Tag mit Energie zu beginnen."
+      },
+      "MORNING_1H30": {
+        "TITLE": "Morgenspaziergang (1,5h)",
+        "PRICE": "€60",
+        "TIME": "08:00 Uhr",
+        "DUR": "Dauer: 1,5 Stunden",
+        "DESC": "Tiefere morgendliche Erkundung."
       },
       "AFTERNOON_1H": {
         "TITLE": "Nachmittagstour (1h)",
