@@ -286,6 +286,29 @@
   },
   "BOOKING": {
     "SELECT_DATE": "Sélectionnez une date",
+    "DAYS": {
+      "MON": "Lun",
+      "TUE": "Mar",
+      "WED": "Mer",
+      "THU": "Jeu",
+      "FRI": "Ven",
+      "SAT": "Sam",
+      "SUN": "Dim"
+    },
+    "MONTHS": {
+      "JAN": "Jan",
+      "FEB": "Fév",
+      "MAR": "Mar",
+      "APR": "Avr",
+      "MAY": "Mai",
+      "JUN": "Juin",
+      "JUL": "Juil",
+      "AUG": "Août",
+      "SEP": "Sep",
+      "OCT": "Oct",
+      "NOV": "Nov",
+      "DEC": "Déc"
+    },
     "FULL": "Complet",
     "AVAILABLE": "Disponible",
     "SLOTS": "places",
