@@ -121,49 +121,49 @@
       "ALBA": {
         "TITLE": "Sunrise Excursion",
         "PRICE": "€70",
-        "TIME": "06:00 AM",
+        "TIME": "Departure: 06:00",
         "DUR": "Duration: 1h 30m",
         "DESC": "The thrill of nature awakening in the saddle."
       },
       "MORNING_1H": {
         "TITLE": "Morning Walk (1h)",
         "PRICE": "€40",
-        "TIME": "08:00 AM",
+        "TIME": "Departure: 08:00",
         "DUR": "Duration: 1 Hour",
         "DESC": "Ideal to start the day with energy."
       },
       "MORNING_1H30": {
         "TITLE": "Morning Walk (1.5h)",
         "PRICE": "€60",
-        "TIME": "08:00 AM",
+        "TIME": "Departure: 08:00",
         "DUR": "Duration: 1h 30m",
         "DESC": "Deeper morning exploration."
       },
       "AFTERNOON_1H": {
         "TITLE": "Afternoon Tour (1h)",
         "PRICE": "€40",
-        "TIME": "From 18:00",
+        "TIME": "Departure: 18:00",
         "DUR": "Duration: 1 Hour",
         "DESC": "Relaxing walk in the late afternoon."
       },
       "AFTERNOON_1H30": {
         "TITLE": "Afternoon Tour (1.5h)",
         "PRICE": "€60",
-        "TIME": "From 18:00",
+        "TIME": "Departure: 18:00",
         "DUR": "Duration: 1h 30m",
         "DESC": "Extended exploration of local trails."
       },
       "APERITIVO": {
         "TITLE": "Aperitif Tour",
         "PRICE": "€80",
-        "TIME": "Afternoon",
+        "TIME": "Departure: 18:00",
         "DUR": "Duration: 2 Hours",
         "DESC": "Includes aperitif at Stella di Mare Beach Bar."
       },
       "NURAGHE": {
         "TITLE": "Nuraghe Osalla Tour",
         "PRICE": "€130",
-        "TIME": "Afternoon",
+        "TIME": "Departure: 18:00",
         "DUR": "Duration: 3 Hours",
         "DESC": "Includes aperitif and visit to the Nuraghe (for experts)."
       }

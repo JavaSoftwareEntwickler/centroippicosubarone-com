@@ -121,49 +121,49 @@
       "ALBA": {
         "TITLE": "Excursión al Amanecer",
         "PRICE": "70 €",
-        "TIME": "06:00",
+        "TIME": "Salida: 06:00",
         "DUR": "Duración: 1h 30m",
         "DESC": "La emoción del despertar de la naturaleza en la silla."
       },
       "MORNING_1H": {
         "TITLE": "Paseo de la Mañana (1h)",
         "PRICE": "40 €",
-        "TIME": "08:00",
+        "TIME": "Salida: 08:00",
         "DUR": "Duración: 1 Hora",
         "DESC": "Ideal para empezar el día con energía."
       },
       "MORNING_1H30": {
         "TITLE": "Paseo de la Mañana (1.5h)",
         "PRICE": "60 €",
-        "TIME": "08:00",
+        "TIME": "Salida: 08:00",
         "DUR": "Duración: 1h 30m",
         "DESC": "Exploración matutina más profunda."
       },
       "AFTERNOON_1H": {
         "TITLE": "Tour por la Tarde (1h)",
         "PRICE": "40 €",
-        "TIME": "A partir de las 18:00",
+        "TIME": "Salida: 18:00",
         "DUR": "Duración: 1 Hora",
         "DESC": "Paseo relajante al final de la tarde."
       },
       "AFTERNOON_1H30": {
         "TITLE": "Tour por la Tarde (1.5h)",
         "PRICE": "60 €",
-        "TIME": "A partir de las 18:00",
+        "TIME": "Salida: 18:00",
         "DUR": "Duración: 1h 30m",
-        "DESC": "Exploración extendida de los senderos locales."
+        "DESC": "Exploration extendida de los senderos locales."
       },
       "APERITIVO": {
         "TITLE": "Tour con Aperitivo",
         "PRICE": "80 €",
-        "TIME": "Vespertina",
+        "TIME": "Salida: 18:00",
         "DUR": "Duración: 2 Horas",
         "DESC": "Incluye aperitivo en el Beach Bar Stella di Mare."
       },
       "NURAGHE": {
         "TITLE": "Tour Nuraghe Osalla",
         "PRICE": "130 €",
-        "TIME": "Vespertina",
+        "TIME": "Salida: 18:00",
         "DUR": "Duración: 3 Horas",
         "DESC": "Incluye aperitivo y visita al Nuraghe (para expertos)."
       }

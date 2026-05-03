@@ -121,49 +121,49 @@
       "ALBA": {
         "TITLE": "Escursione all'Alba",
         "PRICE": "€70",
-        "TIME": "Ore 06:00",
+        "TIME": "Partenza ore 06:00",
         "DUR": "Durata: 1h 30m",
         "DESC": "L'emozione del risveglio della natura in sella."
       },
       "MORNING_1H": {
         "TITLE": "Passeggiata del Mattino (1h)",
         "PRICE": "€40",
-        "TIME": "Ore 08:00",
+        "TIME": "Partenza ore 08:00",
         "DUR": "Durata: 1 Ora",
         "DESC": "Ideale per iniziare la giornata con energia."
       },
       "MORNING_1H30": {
         "TITLE": "Passeggiata del Mattino (1.5h)",
         "PRICE": "€60",
-        "TIME": "Ore 08:00",
+        "TIME": "Partenza ore 08:00",
         "DUR": "Durata: 1h 30m",
         "DESC": "Esplorazione mattutina più approfondita."
       },
       "AFTERNOON_1H": {
         "TITLE": "Tour Pomeridiano (1h)",
         "PRICE": "€40",
-        "TIME": "Dalle 18:00",
+        "TIME": "Partenza ore 18:00",
         "DUR": "Durata: 1 Ora",
         "DESC": "Passeggiata rilassante nel tardo pomeriggio."
       },
       "AFTERNOON_1H30": {
         "TITLE": "Tour Pomeridiano (1.5h)",
         "PRICE": "€60",
-        "TIME": "Dalle 18:00",
+        "TIME": "Partenza ore 18:00",
         "DUR": "Durata: 1h 30m",
         "DESC": "Esplorazione estesa dei sentieri locali."
       },
       "APERITIVO": {
         "TITLE": "Tour con Aperitivo",
         "PRICE": "€80",
-        "TIME": "Pomeridiana",
+        "TIME": "Partenza ore 18:00",
         "DUR": "Durata: 2 Ore",
         "DESC": "Include aperitivo al Beach Bar Stella di Mare."
       },
       "NURAGHE": {
         "TITLE": "Tour Nuraghe Osalla",
         "PRICE": "€130",
-        "TIME": "Pomeridiana",
+        "TIME": "Partenza ore 18:00",
         "DUR": "Durata: 3 Ore",
         "DESC": "Include aperitivo e visita al Nuraghe (per esperti)."
       }
