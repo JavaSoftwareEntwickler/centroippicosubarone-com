@@ -271,6 +271,7 @@
   },
   "BOOKING": {
     "SELECT_DATE": "Selecciona una fecha",
+    "SELECT_PARTICIPANTS": "Selecciona los participantes",
     "DAYS": {
       "MON": "Lun",
       "TUE": "Mar",
